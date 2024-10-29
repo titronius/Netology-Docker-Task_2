@@ -1,4 +1,4 @@
-# Task 1 for Docker-Netology
+# Task 2 for Docker-Netology
 
 Сommands to build and start DockerImage, based on python:3.12-slim and django-app from /static:
 
