@@ -10,7 +10,7 @@ docker build . --tag=django-crud:1.0
 docker image ls
 
 # run container based on custom image with port tunnelling
-docker run -d -p 8000:8000 --name=django-crud ndjango-crud:1.0
+docker run -d -p 8000:8000 --name=django-crud django-crud:1.0
 
 # check containers
 docker ps
